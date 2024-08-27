@@ -8,6 +8,6 @@
      const char /* */
     *__restrict, //... 
    ...);int main() { //
-  for (int i = 13;i > 0;
- i--){ printf("%*s#%*s#\n"
-, i,"", (13 - i) * 2,"");}}
+  for(int i = 12;i >= 0;
+ i--){printf("%*s#%*s#\n"
+, i,"",(12 - i) * 2,"");}}
