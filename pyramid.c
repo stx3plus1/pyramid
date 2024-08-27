@@ -6,7 +6,7 @@
        int//cirkulx
       /*_*/ printf (
      const char /* */
-    *__restrict, //... 
+    *__restrict, //...
    ...);int main() { //
   for(int i = 12;i >= 0;
  i--){printf("%*s#%*s#\n"
