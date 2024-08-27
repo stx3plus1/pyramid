@@ -5,7 +5,7 @@
         // made by
        int//cirkulx
       /*_*/ printf (
-     const char /* */
+     const char /*_*/
     *__restrict, //...
    ...);int main() { //
   for(int i = 12;i >= 0;
